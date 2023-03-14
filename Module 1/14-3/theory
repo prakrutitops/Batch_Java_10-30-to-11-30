@@ -1,0 +1,59 @@
+JAVA
+
+Compiler-JDK-JAVA DEVELOPMENT KIT
+
+1)Download JDK
+Link:https://www.techspot.com/downloads/5198-java-jre.html
+
+2)Install JDK
+
+3)Set the Path
+C:\Program Files\Java\jdk1.8.0_191\bin
+
+4)
+THIS PC->Right Click->Properties->Advanced System Settings->Environment Variables->
+Click on PATH->Edit->Paste Your PATH->Click on OK
+
+5)Open Your CMD and type javac .. code will be execute
+
+============================================================
+
+Editor-> Eclipse
+1)Download
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe
+
+2)Install
+Java EE Developers
+
+
+================================================================
+
+Core Java
+Advance Java
+Framework
+
+================================================================
+
+Create JAVA Project
+->JRE =>System Library
+->src =>Source
+
+====================================================================
+Access Modifdier/Visibility Modifier(Specifier)
+Public
+Private
+Protected
+No Modifier
+
+=====================================================================
+Conditions:
+If,Else if,Else
+Switch,Case ,Break
+
+= , ==
+
+70-A
+60-B
+50-C
+40-D
+
