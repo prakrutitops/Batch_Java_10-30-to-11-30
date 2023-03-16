@@ -1,0 +1,79 @@
+1)
+For:
+for(initialization;condition;incre/decre)
+{
+	code
+}
+2)
+While:
+
+initialization;
+
+while(condition)
+{
+	code
+	incre/decre;
+}
+
+
+3)
+DoWhile:
+
+initialization;
+do
+{
+	code
+	incre/decre;
+}
+while(condition);
+
+
+
+foreach
+=======================================
+Entry Control Loop
+For
+While
+
+Exit Control Loop
+DoWhile
+========================================
+Task:
+
+tops
+tops4
+
+Not Use:
+Function
+Loop
+Conditional
+datatype
+
+=========================================
+OOP:[Object Oriented Programming]
+
+1)Object:Any Entity Which has own state and behaviour
+ex:Any Living things
+
+2)Class:Collection of objects 
+ex:Human Body
+
+3)Abstraction:Hiding Internal Details and showing functionalities
+ex:Login Page
+
+4)Encapsulation:Wrapping up of data or Binding of data
+ex:capsule
+
+5)Inheritance:When One Object Acquire all the properties and behaviour of parent class
+ex:Father-son
+
+6)Polymorphism:Many Ways to Perform Anything
+ex:road ways
+
+constructor:When Method Having a same as a classname
+
+Types of constructor:
+1)Default
+2)Parameterized
+3)Copy
+
