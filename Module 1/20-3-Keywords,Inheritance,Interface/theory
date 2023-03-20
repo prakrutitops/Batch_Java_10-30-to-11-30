@@ -1,0 +1,28 @@
+Keywords:
+this
+static
+super
+final
+1)variable
+2)method
+3)class
+
+Encapsulation:
+Database:
+
+Inheritance:
+
+types of inheritance:
+1)Single
+2)Multilevel
+3)Multiple - Not Supported in JAVA
+4)Hierarchical
+5)Hybrid
+
+parent-child
+super-sub
+base-derived
+
+Interface-> Collection of abstract methods
+
+void a()
