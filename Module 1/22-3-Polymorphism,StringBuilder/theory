@@ -1,0 +1,23 @@
+Polymorphism:Many ways to perform anything
+
+types of polymorphism:
+1)Method Overloading:When two methods having a same name but number of parameters are diffrent
+
+
+2)Method Overriding:When two methods having a same name and number of parameters are also same
+
+
+StringBuilder & StringBuffer
+
+StringBuilder -Immutable - can not change the value
+StringBuffer - Mutable -can change the value
+
+================================================
+
+How to Declare strings:
+1)Literal String
+2)New Keyword String
+3)Character Array String
+
+===============================================
+
