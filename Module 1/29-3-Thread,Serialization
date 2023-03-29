@@ -1,0 +1,25 @@
+Byte Format
+
+Serializable
+
+OutputStream -write
+Serialization
+
+
+InputStream - read
+Deserialization
+
+Thread: Handle Process
+
+Class - Thread
+Interface - Runnable
+
+Thread Lifecycle
+
+init
+start
+run
+stop
+destroy
+
+Thread Synchronized
