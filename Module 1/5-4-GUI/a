@@ -1,1 +1,16 @@
 
+1)
+OptionPane:
+-> showmessagedialog
+-> showinputdialog
+-> showconfirmdialog
+
+2)
+RadioButton:
+Single Selection
+
+3)
+DropDown:
+Spinner
+ComboBox
+
