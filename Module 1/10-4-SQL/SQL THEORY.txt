@@ -1,0 +1,102 @@
+Database ->Data Store
+
+1 Project -> 1 Database
+
+Multiple Table:
+
+1 Table - Multiple Fields[Column]
+
+CRUD Operation:
+Insert
+Select[View]
+Update
+Delete
+
+
+Software => XAMPP=> Server
+
+
+WAMP
+W=> Windows
+A=> Apache
+M=> Mysql
+P=> PhpMyAdmin
+
+LAMP
+L=> Linux
+A=> Apache
+M=> Mysql
+P=> PhpMyAdmin
+
+MAMP
+M=> Mac
+A=> Apache
+M=> Mysql
+P=> PhpMyAdmin
+
+
+
+XAMPP
+
+X=> Cross Platform
+A=> Apache
+M=> Mysql
+P=> PhpMyAdmin
+P=> Perl
+
+Service :
+Apache->Server
+Mysql->Database
+
+
+SQL -> Structured query language
+MYSQL-> Database
+
+
+Database:
+Mysql
+Oracle
+Mongo Db
+Ms Access
+SQL Server
+
+
+=======================================================
+
+Types of Commands in MYSQL:
+
+1)DDL=>data definition language
+-> create,alter,drop,truncate,rename
+
+2)DML=>data manipulation language
+->insert,update,delete
+
+3)DQL=>data query language
+->select
+
+4)DCL=>data control language
+->rollback,commit
+
+=======================================================
+
+Database:Company
+Table: Emp
+
+Query->
+
+Functions:
+Scalar Function:
+
+Aggregate Function:
+MAX
+MIN
+SUM
+AVG
+FIRST
+LAST
+
+
+
+
+
+
