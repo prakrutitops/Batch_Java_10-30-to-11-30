@@ -1,0 +1,46 @@
+
+Array:Collection of items
+
+types of array
+1)Single
+2)multi 
+
+
+Collection Framework
+
+class+interface+methods[pre-defined]
+
+Interface
+
+1)
+List 
+
+class->ArrayList
+add
+addAll
+remove
+removeAll
+retainAll
+
+class->LinkedList
+singly linked list
+doubly linked list
+
+
+2)
+Set
+
+Class->HashSet->Duplicate element remove
+->LinkedHashSet
+
+
+Vector
+Stack
+
+
+3)
+Map
+Class->HashMap
+
+
+
