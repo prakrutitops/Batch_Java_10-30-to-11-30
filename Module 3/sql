@@ -1,0 +1,43 @@
+SQL-Structured Query Language
+
+MYSQL - Database
+
+Types of commands in MYSQL
+
+1)
+DDL->Data Definition Language
+=>Create,alter,drop,truncate,rename
+
+2)
+DML->Data Manipulation Language
+=>insert,update,delete
+
+3)
+DQL->Data Query Language
+=>select
+
+4)
+DCL->Data Control Language
+=>rollback,commit
+
+->Query
+
+->Software:XAMPP
+
+->Functions:
+1)Scalar Function:
+
+MID: SELECT MID(NAME,1,4) FROM Students; 
+
+
+2)Agreegate Function:
+AVG: SELECT AVG(salary)FROM details;
+
+FIRST: SELECT salary FROM details ORDER BY salary ASC LIMIT 1;
+LAST:SELECT salary FROM details ORDER BY salary DESC LIMIT 1;
+
+Views:
+Create view myview as select colname from tablename
+
+
+
