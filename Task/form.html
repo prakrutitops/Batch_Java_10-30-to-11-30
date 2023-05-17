@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<fieldset>
+	<legend>Personal Information</legend>
+	<form>
+		
+		<p>
+			<label>Enter Your FirstName: </label>
+			<input type="text" name="fname" placeholder="Enter Your Name" required="required">
+		</p>
+		
+		<p>
+			<label>Enter Your LastName: </label>
+			<input type="text" name="lname" required="required">
+		</p>
+		
+		<p>
+			<label>Enter Your Email: </label>
+			<input type="email" name="email" required="required">
+		</p>
+		
+		
+	
+</fieldset>
+
+<fieldset>
+	<legend>Work Information</legend>
+	<form>
+		
+		<p>
+			<label>Enter Your Phone: </label>
+			<input type="number" name="phone" required="required" maxlength="10">
+		</p>
+		
+		<p>
+			<label>Select Your Gender: </label>
+			<input type="radio" name="gender" value="Male">Male
+			<input type="radio" name="gender" value="Female">Female
+		</p>
+		
+		<p>
+			<label>Select Your Hobbies: </label>
+			<input type="checkbox" name="cricket" value="Cricket">Cricket
+			<input type="checkbox" name="reading" value="Reading">Reading
+		</p>
+		
+		<p>
+			<label>Select Your City: </label>
+			<select>
+				<option>Select Your City</option>
+				<option>Ahmedabad</option>
+				<option>Baroda</option>
+				<option>Surat</option>
+			</select>
+		</p>
+		
+		
+		
+		<p>
+			<input type="submit" value="Submit"> 
+			<input type="reset" value="Reset"> 
+		</p>
+	</form>
+</fieldset>
+</body>
+</html>
