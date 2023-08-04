@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2 Aug, 2023 6:37:38 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.model.Address" table="ADDRESS">
+        <id name="aid" type="int">
+            <column name="AID" />
+            <generator class="increment" />
+        </id>
+        <property name="address" type="java.lang.String">
+            <column name="ADDRESS" />
+        </property>
+    </class>
+</hibernate-mapping>
